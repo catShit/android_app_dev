@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='lab_05_pizza_order'

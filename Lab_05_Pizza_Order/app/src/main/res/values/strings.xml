@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lab_05_pizza_order</string>
+    <string name="shop_title">Android Pizza Shop</string>
+    <string name="size_txt">Choose Your Pizza Size:</string>
+    <string name="pizza_pic">pizza</string>
+    <string name="smallpizza">Small ($ 5 )</string>
+    <string name="mediumpizza">Medium ($ 7 )</string>
+    <string name="largepizza">Large ($ 9 )</string>
+    <string name="choose_topping">Choose Your Topping:</string>
+    <string name="onion_check">Onions ($ 1 )</string>
+    <string name="olive_check">Olives ($ 2 )</string>
+    <string name="tomatos_check">Tomatoes ($ 3 )</string>
+    <string name="order_button">Place Your Order</string>
+</resources>

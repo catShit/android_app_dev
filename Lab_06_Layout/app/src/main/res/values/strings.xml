@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab_06_Layout</string>
+    <string name="course_tag">Courses</string>
+    <string name="exams_tag">Exams</string>
+    <string name="freelance_tag">Freelance</string>
+</resources>
